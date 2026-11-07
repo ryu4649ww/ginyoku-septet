@@ -1,0 +1,77 @@
+{
+"boss": {
+"loopStart": 6.8571,
+"loopEnd": 34.2857,
+"seconds": 34.286,
+"bpm": 140
+},
+"clear": {
+"loop": false,
+"seconds": 10.134,
+"bpm": 124
+},
+"ending": {
+"loopStart": 10.0,
+"loopEnd": 50.0,
+"seconds": 50.0,
+"bpm": 96
+},
+"final": {
+"loopStart": 6.5753,
+"loopEnd": 32.8767,
+"seconds": 32.877,
+"bpm": 146
+},
+"gameover": {
+"loop": false,
+"seconds": 14.335,
+"bpm": 80
+},
+"rescue": {
+"loop": false,
+"seconds": 10.389,
+"bpm": 120
+},
+"s1": {
+"loopStart": 7.5,
+"loopEnd": 45.0,
+"seconds": 45.0,
+"bpm": 128
+},
+"s2": {
+"loopStart": 7.7419,
+"loopEnd": 38.7097,
+"seconds": 38.71,
+"bpm": 124
+},
+"s3": {
+"loopStart": 8.5714,
+"loopEnd": 42.8571,
+"seconds": 42.857,
+"bpm": 112
+},
+"s4": {
+"loopStart": 7.2727,
+"loopEnd": 36.3636,
+"seconds": 36.364,
+"bpm": 132
+},
+"s8": {
+"loopStart": 8.1356,
+"loopEnd": 40.678,
+"seconds": 40.678,
+"bpm": 118
+},
+"select": {
+"loopStart": 8.8889,
+"loopEnd": 44.4444,
+"seconds": 44.444,
+"bpm": 108
+},
+"title": {
+"loopStart": 8.0,
+"loopEnd": 64.0,
+"seconds": 64.0,
+"bpm": 120
+}
+}
