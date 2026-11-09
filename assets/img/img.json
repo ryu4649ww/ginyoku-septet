@@ -225,19 +225,19 @@
   "out": 1
  },
  "ship_homura_a": {
-  "w": 154,
+  "w": 155,
   "h": 160
  },
  "ship_homura_b": {
   "w": 160,
-  "h": 135
+  "h": 137
  },
  "ship_homura_c": {
-  "w": 160,
-  "h": 157
+  "w": 128,
+  "h": 160
  },
  "ship_shizuku_a": {
-  "w": 119,
+  "w": 117,
   "h": 160
  },
  "ship_shizuku_b": {
@@ -246,7 +246,7 @@
  },
  "ship_shizuku_c": {
   "w": 160,
-  "h": 145
+  "h": 150
  },
  "ship_mint_a": {
   "w": 160,
@@ -254,38 +254,38 @@
  },
  "ship_mint_b": {
   "w": 160,
-  "h": 95
+  "h": 94
  },
  "ship_mint_c": {
   "w": 160,
-  "h": 132
+  "h": 131
  },
  "ship_luna_a": {
   "w": 160,
   "h": 127
  },
  "ship_luna_b": {
-  "w": 160,
+  "w": 159,
   "h": 160
  },
  "ship_luna_c": {
-  "w": 142,
+  "w": 138,
   "h": 160
  },
  "ship_kaede_a": {
-  "w": 156,
+  "w": 159,
   "h": 160
  },
  "ship_kaede_b": {
   "w": 160,
-  "h": 146
+  "h": 117
  },
  "ship_kaede_c": {
   "w": 160,
   "h": 121
  },
  "ship_amber_a": {
-  "w": 112,
+  "w": 115,
   "h": 160
  },
  "ship_amber_b": {
@@ -293,12 +293,12 @@
   "h": 158
  },
  "ship_amber_c": {
-  "w": 152,
+  "w": 149,
   "h": 160
  },
  "ship_sumire_a": {
   "w": 160,
-  "h": 141
+  "h": 148
  },
  "ship_sumire_b": {
   "w": 160,
